@@ -60,7 +60,7 @@
 			"LongestWaitingTimeTicketMQ": "2017-05-22T00:00:00",
 			"date": "2017/05/22 09:30:04",
 			"_id": 3,
-			"WaitingCustomersMQ": 0
+			"WaitingCustomersMQ": 2
 		}, {
 			"AvgWaitingSQ": "2017-05-22T00:00:00",
 			"WaitingCustomersSQ": 0,
