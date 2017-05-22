@@ -40,7 +40,7 @@
 			"LongestWaitingTimeTicketMQ": "2017-05-22T00:00:00",
 			"date": "2017/05/22 09:30:04",
 			"_id": 1,
-			"WaitingCustomersMQ": 0
+			"WaitingCustomersMQ": 1
 		}, {
 			"AvgWaitingSQ": "2017-05-22T00:00:00",
 			"WaitingCustomersSQ": 0,
@@ -120,7 +120,7 @@
 			"LongestWaitingTimeTicketMQ": "2017-05-22T00:00:00",
 			"date": "2017/05/22 09:30:04",
 			"_id": 9,
-			"WaitingCustomersMQ": 0
+			"WaitingCustomersMQ": 8
 		}],
 		"_links": {
 			"start": "/api/action/datastore_search?resource_id=38d6520a-b1b9-4224-a7ae-23d4b14f598f",
