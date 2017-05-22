@@ -1,0 +1,131 @@
+{
+	"help": "http://www.odaa.dk/api/3/action/help_show?name=datastore_search",
+	"success": true,
+	"result": {
+		"resource_id": "38d6520a-b1b9-4224-a7ae-23d4b14f598f",
+		"fields": [{
+			"type": "int4",
+			"id": "_id"
+		}, {
+			"type": "text",
+			"id": "date"
+		}, {
+			"type": "timestamp",
+			"id": "AvgWaitingSQ"
+		}, {
+			"type": "int4",
+			"id": "WaitingCustomersSQ"
+		}, {
+			"type": "text",
+			"id": "ServiceTypeName"
+		}, {
+			"type": "int4",
+			"id": "WaitingCustomersMQ"
+		}, {
+			"type": "timestamp",
+			"id": "LongestWaitingTimeTicketBQ"
+		}, {
+			"type": "timestamp",
+			"id": "LongestWaitingTimeTicketSQ"
+		}, {
+			"type": "timestamp",
+			"id": "LongestWaitingTimeTicketMQ"
+		}],
+		"records": [{
+			"AvgWaitingSQ": "2017-05-22T00:00:00",
+			"WaitingCustomersSQ": 0,
+			"LongestWaitingTimeTicketBQ": "2017-05-22T00:00:00",
+			"LongestWaitingTimeTicketSQ": "2017-05-22T00:00:00",
+			"ServiceTypeName": "Pas",
+			"LongestWaitingTimeTicketMQ": "2017-05-22T00:00:00",
+			"date": "2017/05/22 09:30:04",
+			"_id": 1,
+			"WaitingCustomersMQ": 0
+		}, {
+			"AvgWaitingSQ": "2017-05-22T00:00:00",
+			"WaitingCustomersSQ": 0,
+			"LongestWaitingTimeTicketBQ": "2017-05-22T00:00:00",
+			"LongestWaitingTimeTicketSQ": "2017-05-22T00:00:00",
+			"ServiceTypeName": "K\u00f8rekort",
+			"LongestWaitingTimeTicketMQ": "2017-05-22T00:00:00",
+			"date": "2017/05/22 09:30:04",
+			"_id": 2,
+			"WaitingCustomersMQ": 0
+		}, {
+			"AvgWaitingSQ": "2017-05-22T00:00:00",
+			"WaitingCustomersSQ": 0,
+			"LongestWaitingTimeTicketBQ": "2017-05-22T00:00:00",
+			"LongestWaitingTimeTicketSQ": "2017-05-22T00:00:00",
+			"ServiceTypeName": "Folkeregister",
+			"LongestWaitingTimeTicketMQ": "2017-05-22T00:00:00",
+			"date": "2017/05/22 09:30:04",
+			"_id": 3,
+			"WaitingCustomersMQ": 0
+		}, {
+			"AvgWaitingSQ": "2017-05-22T00:00:00",
+			"WaitingCustomersSQ": 0,
+			"LongestWaitingTimeTicketBQ": "2017-05-22T00:00:00",
+			"LongestWaitingTimeTicketSQ": "2017-05-22T00:00:00",
+			"ServiceTypeName": "Bestilt tid til pas",
+			"LongestWaitingTimeTicketMQ": "2017-05-22T00:00:00",
+			"date": "2017/05/22 09:30:04",
+			"_id": 4,
+			"WaitingCustomersMQ": 0
+		}, {
+			"AvgWaitingSQ": "2017-05-22T00:00:00",
+			"WaitingCustomersSQ": 0,
+			"LongestWaitingTimeTicketBQ": "2017-05-22T00:00:00",
+			"LongestWaitingTimeTicketSQ": "2017-05-22T00:00:00",
+			"ServiceTypeName": "Folkeinformation",
+			"LongestWaitingTimeTicketMQ": "2017-05-22T00:00:00",
+			"date": "2017/05/22 09:30:04",
+			"_id": 5,
+			"WaitingCustomersMQ": 0
+		}, {
+			"AvgWaitingSQ": "2017-05-22T00:00:00",
+			"WaitingCustomersSQ": 0,
+			"LongestWaitingTimeTicketBQ": "2017-05-22T00:00:00",
+			"LongestWaitingTimeTicketSQ": "2017-05-22T00:00:00",
+			"ServiceTypeName": "CPR/Indrejse",
+			"LongestWaitingTimeTicketMQ": "2017-05-22T00:00:00",
+			"date": "2017/05/22 09:30:04",
+			"_id": 6,
+			"WaitingCustomersMQ": 0
+		}, {
+			"AvgWaitingSQ": "2017-05-22T00:00:00",
+			"WaitingCustomersSQ": 0,
+			"LongestWaitingTimeTicketBQ": "2017-05-22T00:00:00",
+			"LongestWaitingTimeTicketSQ": "2017-05-22T00:00:00",
+			"ServiceTypeName": "Borgerservice, andet",
+			"LongestWaitingTimeTicketMQ": "2017-05-22T00:00:00",
+			"date": "2017/05/22 09:30:04",
+			"_id": 7,
+			"WaitingCustomersMQ": 0
+		}, {
+			"AvgWaitingSQ": "2017-05-22T00:00:00",
+			"WaitingCustomersSQ": 0,
+			"LongestWaitingTimeTicketBQ": "2017-05-22T00:00:00",
+			"LongestWaitingTimeTicketSQ": "2017-05-22T00:00:00",
+			"ServiceTypeName": "K\u00f8rel\u00e6rer",
+			"LongestWaitingTimeTicketMQ": "2017-05-22T00:00:00",
+			"date": "2017/05/22 09:30:04",
+			"_id": 8,
+			"WaitingCustomersMQ": 0
+		}, {
+			"AvgWaitingSQ": "2017-05-22T00:00:00",
+			"WaitingCustomersSQ": 0,
+			"LongestWaitingTimeTicketBQ": "2017-05-22T00:00:00",
+			"LongestWaitingTimeTicketSQ": "2017-05-22T00:00:00",
+			"ServiceTypeName": "Booking teori- og k\u00f8repr\u00f8ve",
+			"LongestWaitingTimeTicketMQ": "2017-05-22T00:00:00",
+			"date": "2017/05/22 09:30:04",
+			"_id": 9,
+			"WaitingCustomersMQ": 0
+		}],
+		"_links": {
+			"start": "/api/action/datastore_search?resource_id=38d6520a-b1b9-4224-a7ae-23d4b14f598f",
+			"next": "/api/action/datastore_search?offset=100&resource_id=38d6520a-b1b9-4224-a7ae-23d4b14f598f"
+		},
+		"total": 9
+	}
+}
